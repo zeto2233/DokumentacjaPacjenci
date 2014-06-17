@@ -10,6 +10,7 @@ namespace DokumentyPacjenci
     {
         void a() { }
         void b = 5;
-        void a = 8;
+        
+        void c=12;
     }
 }
